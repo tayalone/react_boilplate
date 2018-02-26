@@ -1,0 +1,7 @@
+.Nav_Item,
+.Nav_Item:active,
+.Nav_Item:link,
+.Nav_Item:visited {
+    text-decoration: none; 
+    color: dodgerblue;
+}

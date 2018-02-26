@@ -1,0 +1,8 @@
+.Navigation_List {
+    list-style: none;
+}
+
+.Navigation_List li {
+    display: inline-block;
+    margin-right: 20px;
+}

@@ -1,0 +1,10 @@
+export const ADD_REDUX = "ADD_REDUX"
+export const SUB_REDUX = "SUB_REDUX"
+
+export const START_THUNK = "START_THUNK"
+export const ADD_REDUXTHUNK = "ADD_REDUXTHUNK"
+export const SUB_REDUXTHUNK = "SUB_REDUXTHUNK"
+
+export const START_AXIOS = "START_AXIOS"
+export const SUCCESS_AXIOS = "SUCCESS_AXIOS"
+export const FAILED_AXIOS = "FAILED_AXIOS"
